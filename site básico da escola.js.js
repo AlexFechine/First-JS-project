@@ -32,5 +32,3 @@ if (nota == notaMaxima) {
 function parabenizar(aluno, nota) {
     alert(`Parabéns, ${aluno}! Você tirou a nota máxima de ${nota}!`);
 }
-
-    
